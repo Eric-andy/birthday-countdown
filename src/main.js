@@ -22,7 +22,7 @@ const quoteEl = document.querySelector(".message");
 const birthdayEl = document.querySelector(".date");
 
 //User's birthday (day, month)
-let myBirthDay = [10, 10];
+let myBirthDay = [2, 10];
 
 //Whether it's the user's birthday or not
 let isBirthday = false;

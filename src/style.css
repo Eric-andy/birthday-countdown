@@ -19,7 +19,7 @@
 body {
     font-family: Inter, sans-serif;
     color: var(--primary-dark);
-    filter: hue-rotate(350deg);
+    filter: hue-rotate(300deg);
 
     /* Low resolution tablets and large mobile 480px to 768px*/
     @media screen and (min-width: 480px) {
@@ -156,6 +156,7 @@ main {
     background-repeat: no-repeat;
     border-radius: 50%;
     border: 5px solid #fff;
+    filter: hue-rotate(60deg);
 }
 
 .time-container {
