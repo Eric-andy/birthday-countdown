@@ -18,9 +18,9 @@ const senderInput = document.getElementById("sender-name");
 const wishMessage = document.getElementById("wish-message").value;
 
 //emailjs variables
-const emailTemplateID = "template_woj5bnw";
-const publicKey = "86IJgs7athT9A2r1_";
-const emailServiceID = "default_service";
+const emailTemplateID = "template_38wyik8";
+const publicKey = "LJA0Z7EDMBtQFzzqc";
+const emailServiceID = "service_awsy0cl";
 
 //initialize emailjs API
 (function () {
